@@ -1,0 +1,14 @@
+C:\Users\KiberOne3\Documents\Lukanin\bin\Debug\net10.0\Lukanin.exe
+C:\Users\KiberOne3\Documents\Lukanin\bin\Debug\net10.0\Lukanin.deps.json
+C:\Users\KiberOne3\Documents\Lukanin\bin\Debug\net10.0\Lukanin.runtimeconfig.json
+C:\Users\KiberOne3\Documents\Lukanin\bin\Debug\net10.0\Lukanin.dll
+C:\Users\KiberOne3\Documents\Lukanin\bin\Debug\net10.0\Lukanin.pdb
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\Lukanin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\Lukanin.AssemblyInfoInputs.cache
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\Lukanin.AssemblyInfo.cs
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\Lukanin.csproj.CoreCompileInputs.cache
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\Lukanin.dll
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\refint\Lukanin.dll
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\Lukanin.pdb
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\Lukanin.genruntimeconfig.cache
+C:\Users\KiberOne3\Documents\Lukanin\obj\Debug\net10.0\ref\Lukanin.dll
